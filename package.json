@@ -1,0 +1,30 @@
+{
+    "name": "powerbi-visuals-formattingmodel",
+    "version": "1.0.0",
+    "description": "Power BI Custom Visuals Formatting Model API type definitions for typescript",
+    "types": "index",
+    "main": "index.js",
+    "keywords": [
+      "PowerBI",
+      "BI",
+      "visuals",
+      "visualization"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/microsoft/powerbi-visuals-formattingmodel.git"
+    },
+    "author": "Microsoft",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/microsoft/powerbi-visuals-formattingmodel/issues"
+    },
+    "homepage": "https://github.com/microsoft/powerbi-visuals-formattingmodel",
+    "dependencies": {
+        "semver": "^7.3.5"
+    },
+    "devDependencies": {
+      "powerbi-visuals-api": "4.5.0"
+    }
+  }
+  
